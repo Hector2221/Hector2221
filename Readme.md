@@ -4,7 +4,7 @@ Hi 👋 My name is Hector Alejandro
 I am a systems engineering student
 -----------------------------
 
-*   🖥️  See my portfolio at [hectoralejandro.netlify.app](https://hectoralejandro.netlify.app/)
+*   🖥️  See my portfolio at [Portfolio](https://hectoralejandro.netlify.app/)
 *   ✉️  You can contact me at [hector.alejandro2221@gmail.com](mailto:hector.alejandro2221@gmail.com)
 *   🚀  I'm currently not working for any company
 *   🤝  I'm open to collaborating on interesting projects as a developer
