@@ -1,4 +1,4 @@
-Hi 👋 My name is Hector Alejandro
+<img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&duration=5000&color=F7F5F4&center=true&vCenter=true&height=90&lines=%C2%A1Hey+%F0%9F%91%8B!+;I%27m+Hector+Alejandro!+;A+Frond-End+Developer;Welcome+to+my+GitHub">
 ===============================
 
 I am a systems engineering student
