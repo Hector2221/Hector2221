@@ -18,6 +18,10 @@ I am a systems engineering student
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
 </p>
 
-<a href="https://github.com/Hector2221" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hector2221&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Languages" />
+### <h3 align="center" >My GitHub Stats</h3>
+
+<a href="http://www.github.com/Hector2221"><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Hector2221&count_private=true&theme=github_dark" alt="Agslz's GitHub stats"/><a/>
+
+<a href="http://www.github.com/Hector2221">
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hector2221&layout=compact&theme=github_dark"/>
 </a>
