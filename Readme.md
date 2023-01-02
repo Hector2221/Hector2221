@@ -35,7 +35,7 @@
 </div>
 
 ## <h3>Connect with me:</h3>
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in//hector-alejandro-rodriguez-hernandez/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
@@ -43,10 +43,8 @@
 
 ### <h3 align="center">My GitHub Stats</h3>
 
-<div align="center">
   <a href="http://www.github.com/Hector2221"><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Hector2221&count_private=true&theme=github_dark" alt="Hector2221's GitHub stats"/></a>
 
   <a href="http://www.github.com/Hector2221">
     <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hector2221&layout=compact&theme=github_dark"/>
   </a>
-</div>
