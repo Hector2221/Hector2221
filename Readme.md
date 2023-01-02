@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&duration=5000&color=F7F5F4&center=true&vCenter=true&height=90&lines=%C2%A1Hey+%F0%9F%91%8B!+;I%27m+Héctor+Alejandro!+;A+Frond-End+Developer;Welcome+to+my+GitHub">
 </p>
------------------------------
 
 *   🖥️  See my portfolio at [Portfolio](https://hectoralejandro.netlify.app/)
 *   ✉️  You can contact me at [hector.alejandro2221@gmail.com](mailto:hector.alejandro2221@gmail.com)
@@ -44,8 +43,10 @@
 
 ### <h3 align="center">My GitHub Stats</h3>
 
-<a href="http://www.github.com/Hector2221"><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Hector2221&count_private=true&theme=github_dark" alt="Hector2221's GitHub stats"/></a>
+<div align="center">
+  <a href="http://www.github.com/Hector2221"><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Hector2221&count_private=true&theme=github_dark" alt="Hector2221's GitHub stats"/></a>
 
-<a href="http://www.github.com/Hector2221">
-  <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hector2221&layout=compact&theme=github_dark"/>
-</a>
+  <a href="http://www.github.com/Hector2221">
+    <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hector2221&layout=compact&theme=github_dark"/>
+  </a>
+</div>
