@@ -12,7 +12,7 @@
 
 ## <h3>Programming Languages</h3>
 
-<div align="left">    
+<div align="center">    
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -42,5 +42,3 @@
   <a href="http://www.github.com/Hector2221">
     <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hector2221&layout=compact&theme=github_dark"/>
   </a>
-
-<img src="https://raw.githubusercontent.com/Hector2221/Hector2221/output/snake.svg" alt="Snake animation" />
