@@ -2,16 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&duration=5000&color=F7F5F4&center=true&vCenter=true&height=90&lines=%C2%A1Hey+%F0%9F%91%8B!+;I%27m+Héctor+Alejandro!+;A+Frond-End+Developer;Welcome+to+my+GitHub">
 </p>
 
-jhghgfhgjgfjgfj
+- 🌍 I'm based in San Luis Potosi, México
+- 🖥️ See my portfolio at [hector-alejandro.dev](http://hector-alejandro222.netlify.app/)
+- ✉️  You can contact me at [hector.alejandro2221@gmail.com](mailto:hector.alejandro2221@gmail.com)
+- 🚀 I'm currently working on [Taxan Mexico](http://taxanmx.com/)
+- 🤝  I'm open to collaborating on interesting projects as a developer
+- 💘  I'm passionate about programming and cybersecurity
 
-* 🌍  I'm based in San Luis Potosi, México
-* 🖥️  See my portfolio at [hector-alejandro.dev](http://hector-alejandro222.netlify.app/)
-* ✉️  You can contact me at [hector.alejandro2221@gmail.com](mailto:hector.alejandro2221@gmail.com)
-* 🚀  I'm currently working on [Taxan Mexico](http://taxanmx.com/)
-* 🤝  I'm open to collaborating on interesting projects as a developer
-* 💘  I'm passionate about programming and cybersecurity
-* 🧠  I'm learning Python
-* 
 ---
 
 ## <h3>Programming Languages</h3>
@@ -27,11 +24,3 @@ jhghgfhgjgfjgfj
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
-
-### <h3 align="center">My GitHub Stats</h3>
-
-<a href="http://www.github.com/Hector2221"><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Hector2221&count_private=true&theme=github_dark" alt="Hector2221's GitHub stats"/></a>
-
-  <a href="http://www.github.com/Hector2221">
-    <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hector2221&layout=compact&theme=github_dark"/>
-  </a>
