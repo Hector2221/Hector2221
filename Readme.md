@@ -1,26 +1,34 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&duration=5000&color=F7F5F4&center=true&vCenter=true&height=90&lines=%C2%A1Hey+%F0%9F%91%8B!+;I%27m+Héctor+Alejandro!+;A+Frond-End+Developer;Welcome+to+my+GitHub">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&duration=5000&color=F7F5F4&center=true&vCenter=true&height=90&lines=%E2%9C%A6+Hey!;I%27m+H%C3%A9ctor+Alejandro!;Full-Stack+Developer">
 </p>
 
-- 🌍 I'm based in San Luis Potosi, México
-- 🖥️ See my portfolio at [hector-alejandro.dev](http://hector-alejandro222.netlify.app/)
-- ✉️  You can contact me at [hector.alejandro2221@gmail.com](mailto:hector.alejandro2221@gmail.com)
-- 🚀 I'm currently working on [Taxan Mexico](http://taxanmx.com/)
-- 🤝  I'm open to collaborating on interesting projects as a developer
-- 💘  I'm passionate about programming and cybersecurity
+
+- 🌍 I'm based in México
+- ⚙️ Fullstack & Industrial Software Developer
+- 🖥️ See my portfolio at [hector-alejandro.dev](http://hector-alejandro.dev/)
+- ☁️ Exploring AI, cloud infrastructure, and cybersecurity
+- 🤝 Open to collaborating on innovative software and automation projects
+
 
 ---
 
 ## <h3>Programming Languages</h3>
 
-<div align="center">    
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,git,github,redux,sass,mysql,materialui" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,supabase,tauri,rust,py,postgres,express,notion" />
+</p>
 
 ## <h3>Connect with me:</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in//hector-alejandro-rodriguez-hernandez/" target="_blank">
+  <a href="https://www.linkedin.com/in/hector-alejandro222/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00E5FF&height=120&section=footer"/>
